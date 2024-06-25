@@ -3,11 +3,11 @@
 ![Profile views](https://gpvc.arturio.dev/mohdbilal)
 
 ## About Me
-- 🌱 I’m currently learning advanced web development
-- 💬 Ask me about software development, photography, and fitness
+- 🌱 I’m currently learning advanced web development and exploring new technologies.
+- 💬 Ask me about software development, creative writing, photography, workouts, and gym routines.
 - 📫 How to reach me: [mohammadbilal.mail@gmail.com](mailto:mohammadbilal.mail@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love astronomy and exploring the mysteries of the universe
+- ⚡ Fun fact: I love astronomy and exploring the mysteries of the universe. I also have a deep interest in human psychology.
 
 ## Connect with Me
 
