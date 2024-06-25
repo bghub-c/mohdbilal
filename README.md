@@ -5,7 +5,7 @@
 ## About Me
 - 🌱 I’m currently learning advanced web development
 - 💬 Ask me about software development, photography, and fitness
-- 📫 How to reach me: [mohd.bilal@example.com](mailto:mohammadbilal.mail@gmail.com)
+- 📫 How to reach me: [mohammadbilal.mail@gmail.com](mailto:mohammadbilal.mail@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love astronomy and exploring the mysteries of the universe
 
